@@ -1,5 +1,5 @@
 
-// Implemented by Sayantan Ghorai
+// Implemented by Shivratan
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
